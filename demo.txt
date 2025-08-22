@@ -3,3 +3,6 @@ Hola 2 commit
 Segundo cambio en nuevo commit
 Tercer cambio en nuevo commit
 Cuarto cambio en nuevo commit
+Quinto cambio en nuevo commit
+Sexto cambio en nuevo commit
+Otro
